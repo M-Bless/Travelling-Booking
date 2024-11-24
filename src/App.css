@@ -17,7 +17,8 @@
 }
 
 .services {
-  background-image: url('https://shorturl.at/78InO');
+  /* background-image: url('https://shorturl.at/78InO'); */
+  background-image:url('./../public/images/img-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +27,8 @@
 }
 
 .products {
-  background-image: url('https://shorturl.at/78InO');
+  /*background-image: url('https://shorturl.at/78InO');*/
+  background-image: url('./../public/images/img-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -35,7 +37,8 @@
 }
 
 .sign-up {
-  background-image: url('https://shorturl.at/78InO');
+  /* background-image: url('https://shorturl.at/78InO'); */
+  background-image: url('./../public/images/img-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
