@@ -47,7 +47,7 @@ h1 {
 .cards__item__pic-wrap {
   position: relative;
   width: 100%;
-  padding-top: 67%;
+  padding-top: 100%;
   overflow: hidden;
 }
 
@@ -97,6 +97,12 @@ h1 {
   color: #252e48;
   font-size: 18px;
   line-height: 24px;
+}
+
+@media only screen and (max-width: 768px) {
+  .cards__container {
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
